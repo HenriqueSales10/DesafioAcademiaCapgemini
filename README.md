@@ -30,20 +30,20 @@ Débora digitou uma string aleatória no campo de senha, porém ela não tem cer
 ![Questao1](https://user-images.githubusercontent.com/71890654/154822171-4943f0df-704a-462c-b606-56859de331b0.gif)
 
 <h2>Questão 2:</h2>
-![Questao2](https://user-images.githubusercontent.com/71890654/154821477-014b2af2-8999-4f23-98e2-70a140e86c67.gif)
+
 
 <h2>Questão 3:</h2>
-![Questao3](https://user-images.githubusercontent.com/71890654/154821603-bdcdf70e-42cb-4783-80be-32b8e46ba9c3.gif)
+
 
 <h1> Testes unitários </h1>
 <h2>Anagrama:</h2>
-![Anagramas](https://user-images.githubusercontent.com/71890654/154821835-4d97fa91-b70b-4c42-8df4-d2101896b1ab.png)
+
 
 <h2>Senha:</h2>
-![Senha](https://user-images.githubusercontent.com/71890654/154821944-b9b36c2e-8825-446d-a997-38688872c006.png)
+
 
 <h2> Para rodar a aplicação, basta realizar o download do código através do botão evidenciado abaixo: </h2>
-![Download](https://user-images.githubusercontent.com/71890654/154822023-bccc9db1-2842-49a3-9551-98f32f705a77.png)
+
 
 <h2> Após realizar o download, deve-se importar o projeto no Eclipse IDE.</h2>
 <b>É importante que todos os requisitos para rodar a aplicação sejam atendidos para que a mesma seja executada corretamente.</b>
