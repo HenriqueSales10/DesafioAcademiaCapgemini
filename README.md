@@ -27,25 +27,30 @@ Débora digitou uma string aleatória no campo de senha, porém ela não tem cer
 
 <h1>Projeto funcionando na prática:</h1>
 <h2>Questão 1:</h2>
-![Questao1](https://user-images.githubusercontent.com/71890654/154822248-06fc8280-79fb-47bb-b62b-8bc62cda131f.gif)
 
+![Questao1](https://user-images.githubusercontent.com/71890654/154822351-9e752c57-3b4c-4ec6-a5ab-b3ff41f3588f.gif)
 
 <h2>Questão 2:</h2>
 
+![Questao2](https://user-images.githubusercontent.com/71890654/154822554-0813927e-5ade-4ebe-a5d0-b1fbf33a5617.gif)
 
 <h2>Questão 3:</h2>
 
+![Questao3](https://user-images.githubusercontent.com/71890654/154822558-20e9ebb2-f33e-49d3-ab7a-e004861f85b4.gif)
 
 <h1> Testes unitários </h1>
 <h2>Anagrama:</h2>
 
+![Anagramas](https://user-images.githubusercontent.com/71890654/154822568-0824bcec-0b09-4bf1-a0a3-1b5577b2bdec.png)
 
 <h2>Senha:</h2>
 
+![Senha](https://user-images.githubusercontent.com/71890654/154822573-fe14bfbf-4d8a-42b3-bd24-6efda7443283.png)
 
 <h2> Para rodar a aplicação, basta realizar o download do código através do botão evidenciado abaixo: </h2>
 
+![Download](https://user-images.githubusercontent.com/71890654/154822581-766f2f2b-ab50-45bb-a0c9-45a58bd57fcf.png)
 
-<h2> Após realizar o download, deve-se importar o projeto no Eclipse IDE.</h2>
+<h2> Após realizar o download, deve-se extrair o arquivo e importar o projeto no Eclipse IDE.</h2>
 <b>É importante que todos os requisitos para rodar a aplicação sejam atendidos para que a mesma seja executada corretamente.</b>
 <h4> Para executar os mini-programas, deve-se executar as classes "Main". A classe "EscadaMain" presente no pacote "questao1" deve ser executada para "rodar" a resolução da questão 1. A classe "SenhaMain" presente no pacote "questao2" deve ser executada para "rodar" a resolução da questão 2. A classe "AnagramaMain" presente no pacote "questao3" deve ser executada para "rodar" a resolução da questão 3.\h4>
