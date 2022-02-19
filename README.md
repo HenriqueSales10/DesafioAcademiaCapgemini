@@ -27,7 +27,7 @@ Débora digitou uma string aleatória no campo de senha, porém ela não tem cer
 
 <h1>Projeto funcionando na prática:</h1>
 <h2>Questão 1:</h2>
-(https://user-images.githubusercontent.com/71890654/154821395-585e9014-af00-444a-9a8c-bcd9b90b1179.gif)
+![Questao1](https://user-images.githubusercontent.com/71890654/154822171-4943f0df-704a-462c-b606-56859de331b0.gif)
 
 <h2>Questão 2:</h2>
 ![Questao2](https://user-images.githubusercontent.com/71890654/154821477-014b2af2-8999-4f23-98e2-70a140e86c67.gif)
